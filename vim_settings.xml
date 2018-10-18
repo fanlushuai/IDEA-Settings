@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="D:/code/longdai-p2p/longdai-cache-service/src/main/java/com/longdai/cache/CacheService.java" timestamp="1539853881109">
+        <mark key="'" line="89" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1539761956150">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,13 +25,19 @@
       <jump line="318" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
       <jump line="333" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
       <jump line="347" column="0" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
+      <jump line="89" column="17" filename="D:/code/longdai-p2p/longdai-cache-service/src/main/java/com/longdai/cache/CacheService.java" />
     </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
