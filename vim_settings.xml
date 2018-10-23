@@ -12,6 +12,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" timestamp="1539761486866">
         <mark key="'" line="347" column="0" />
       </file>
+      <file name="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" timestamp="1540276911269">
+        <mark key="'" line="376" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1539761956120">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,6 +29,8 @@
       <jump line="333" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
       <jump line="347" column="0" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
       <jump line="89" column="17" filename="D:/code/longdai-p2p/longdai-cache-service/src/main/java/com/longdai/cache/CacheService.java" />
+      <jump line="334" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
+      <jump line="376" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
     </jumps>
     <registers />
     <search>
