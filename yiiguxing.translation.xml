@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转发" />
       <item value="subscribe" />
       <item value="订阅" />
       <item value="生效" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
