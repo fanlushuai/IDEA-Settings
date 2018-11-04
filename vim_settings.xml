@@ -9,6 +9,11 @@
       <file name="/Dummy.txt" timestamp="1539761956150">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/code/longdai-ms/longdai-ms-service/src/main/java/com/longdai/api/service/XGService.java" timestamp="1541351009841">
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" timestamp="1539761486866">
         <mark key="'" line="347" column="0" />
       </file>
@@ -32,7 +37,14 @@
       <jump line="334" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
       <jump line="376" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -52,6 +64,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
