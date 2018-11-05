@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="anonymous" />
       <item value="allocated" />
       <item value="proper" />
       <item value="delivery" />
@@ -50,12 +51,11 @@
       <item value="忽略" />
       <item value="capacity" />
       <item value="fuzzy" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
