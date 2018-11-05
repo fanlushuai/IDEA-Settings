@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="取反" />
+      <item value="check" />
       <item value="anonymous" />
       <item value="allocated" />
       <item value="proper" />
@@ -49,13 +51,11 @@
       <item value="direct" />
       <item value="Another" />
       <item value="忽略" />
-      <item value="capacity" />
-      <item value="fuzzy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
