@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCALAR" />
+      <item value="NATURAL" />
       <item value="attempts" />
       <item value="取反" />
       <item value="check" />
@@ -49,13 +51,11 @@
       <item value="respect" />
       <item value="String" />
       <item value="immutable" />
-      <item value="direct" />
-      <item value="Another" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
