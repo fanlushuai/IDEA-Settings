@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expire" />
+      <item value="过期" />
+      <item value="expired" />
+      <item value="expireed" />
+      <item value="失效" />
+      <item value="使失效" />
+      <item value="disable" />
       <item value="Evict" />
       <item value="exponential" />
       <item value="canonical" />
@@ -44,18 +51,11 @@
       <item value="flow" />
       <item value="Restrictions" />
       <item value="安卓" />
-      <item value="eligible" />
-      <item value="注册" />
-      <item value="ignore" />
-      <item value="后缀" />
-      <item value="前缀" />
-      <item value="another" />
-      <item value="other" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
