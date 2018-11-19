@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shuffle" />
+      <item value="permutes" />
       <item value="slight" />
       <item value="interrupt" />
       <item value="Command vaild User Type Tag" />
@@ -49,13 +51,12 @@
       <item value="可用" />
       <item value="启用" />
       <item value="project time limit" />
-      <item value="time limit" />
-      <item value="期限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="CATALAN" value="1" />
       </map>
     </option>
   </component>
