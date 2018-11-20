@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="relayed" />
+      <item value="composed" />
       <item value="shuffle" />
       <item value="permutes" />
       <item value="slight" />
@@ -49,13 +51,11 @@
       <item value="订阅" />
       <item value="生效" />
       <item value="可用" />
-      <item value="启用" />
-      <item value="project time limit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
