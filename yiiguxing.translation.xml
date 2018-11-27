@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Actual" />
+      <item value="interval" />
       <item value="interest" />
       <item value="relayed" />
       <item value="composed" />
@@ -49,13 +51,11 @@
       <item value="Both" />
       <item value="转发" />
       <item value="subscribe" />
-      <item value="订阅" />
-      <item value="生效" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
