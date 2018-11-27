@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beware" />
+      <item value="represented" />
+      <item value="transform" />
+      <item value="absolute" />
+      <item value="negative" />
+      <item value="fires" />
+      <item value="whenever" />
+      <item value="subsequently" />
+      <item value="indicates" />
       <item value="Actual" />
       <item value="interval" />
       <item value="interest" />
@@ -42,20 +51,11 @@
       <item value="infrastructure" />
       <item value="覆盖" />
       <item value="consume" />
-      <item value="消费" />
-      <item value="resume" />
-      <item value="干净的" />
-      <item value="clear" />
-      <item value="具体设备" />
-      <item value="明确" />
-      <item value="Both" />
-      <item value="转发" />
-      <item value="subscribe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
