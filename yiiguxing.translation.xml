@@ -1,15 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actual" />
+      <item value="Rescheduling" />
+      <item value="completion" />
+      <item value="indicates" />
+      <item value="whenever" />
       <item value="Beware" />
       <item value="represented" />
       <item value="transform" />
       <item value="absolute" />
       <item value="negative" />
       <item value="fires" />
-      <item value="whenever" />
       <item value="subsequently" />
-      <item value="indicates" />
       <item value="Actual" />
       <item value="interval" />
       <item value="interest" />
@@ -48,14 +51,11 @@
       <item value="proper" />
       <item value="delivery" />
       <item value="asynchronous" />
-      <item value="infrastructure" />
-      <item value="覆盖" />
-      <item value="consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
