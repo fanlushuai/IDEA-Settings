@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计数" />
       <item value="actual" />
       <item value="Rescheduling" />
       <item value="completion" />
@@ -50,7 +51,6 @@
       <item value="allocated" />
       <item value="proper" />
       <item value="delivery" />
-      <item value="asynchronous" />
     </histories>
     <option name="languageScores">
       <map>
