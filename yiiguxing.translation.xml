@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="点击" />
       <item value="effect" />
       <item value="有效" />
-      <item value="点击" />
       <item value="计数" />
       <item value="actual" />
       <item value="Rescheduling" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
