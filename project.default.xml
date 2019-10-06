@@ -4,69 +4,17 @@
       <component name="CompilerConfiguration">
         <bytecodeTargetLevel target="8" />
       </component>
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <other-services-enabled>true</other-services-enabled>
-        <auto-save>true</auto-save>
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="C:/Program Files/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
-            <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+            <option name="localRepository" value="E:\code\.m2\repository" />
+            <option name="mavenHome" value="E:/code/.m2/apache-maven-3.6.1-with-settings" />
+            <option name="userSettingsFile" value="E:\code\.m2\apache-maven-3.6.1-with-settings\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="project.structure.last.edited" value="SDKs" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
     </defaultProject>
   </component>
