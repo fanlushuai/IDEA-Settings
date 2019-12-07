@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lexer" />
       <item value="compatibility" />
       <item value="behavioral" />
       <item value="complement" />
@@ -50,12 +51,11 @@
       <item value="inquire" />
       <item value="INQUIRE" />
       <item value="SCALAR" />
-      <item value="NATURAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
