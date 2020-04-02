@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="guard" />
+      <item value="Guard" />
       <item value="Leaf" />
       <item value="Lexer" />
       <item value="compatibility" />
@@ -49,13 +51,11 @@
       <item value="canonical" />
       <item value="multiplier" />
       <item value="Synonym" />
-      <item value="inquire" />
-      <item value="INQUIRE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
