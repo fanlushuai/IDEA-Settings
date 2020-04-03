@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spurious" />
       <item value="leak" />
       <item value="VIRGIN" />
       <item value="guard" />
@@ -50,12 +51,11 @@
       <item value="disable" />
       <item value="Evict" />
       <item value="exponential" />
-      <item value="canonical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
