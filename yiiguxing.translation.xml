@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maintained" />
       <item value="suspend" />
       <item value="purge" />
       <item value="yield" />
@@ -50,12 +51,11 @@
       <item value="interrupt" />
       <item value="Command vaild User Type Tag" />
       <item value="preserve" />
-      <item value="interactive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
