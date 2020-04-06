@@ -1,60 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="D:/code/longdai-p2p/longdai-cache-service/src/main/java/com/longdai/cache/CacheService.java" timestamp="1539853881109">
-        <mark key="'" line="89" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1539761956150">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/longdai-ms/longdai-ms-service/src/main/java/com/longdai/api/service/XGService.java" timestamp="1541351009841">
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="." line="328" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" timestamp="1539761486866">
-        <mark key="'" line="347" column="0" />
-      </file>
-      <file name="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" timestamp="1540276911269">
-        <mark key="'" line="376" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1539761956120">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="352" column="53" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="338" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="367" column="8" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="353" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="319" column="27" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="318" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="333" column="5" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="347" column="0" filename="C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java" />
-      <jump line="89" column="17" filename="D:/code/longdai-p2p/longdai-cache-service/src/main/java/com/longdai/cache/CacheService.java" />
-      <jump line="334" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
-      <jump line="376" column="0" filename="D:/code/longdai-p2p/longdai-core/src/main/java/com/longdai/core/controller/bank/JiXinRechargeController.java" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
@@ -77,6 +23,35 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
