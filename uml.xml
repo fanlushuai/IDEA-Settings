@@ -1,0 +1,10 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="MODULES" categories="Show Neighbours of Selected Nodes" />
+        <entry id="SPRING" categories="Show Neighbours of Selected Nodes" />
+      </map>
+    </option>
+  </component>
+</application>
