@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPAGATE" />
+      <item value="spinlocks" />
+      <item value="Landin" />
+      <item value="Craig" />
+      <item value="CLH" />
+      <item value="variant" />
       <item value="exclusive" />
       <item value="maintained" />
       <item value="suspend" />
@@ -45,18 +51,14 @@
       <item value="interval" />
       <item value="interest" />
       <item value="relayed" />
-      <item value="composed" />
-      <item value="shuffle" />
-      <item value="permutes" />
-      <item value="slight" />
-      <item value="interrupt" />
-      <item value="Command vaild User Type Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CATALAN" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>
   </component>
