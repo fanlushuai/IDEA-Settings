@@ -2,8 +2,16 @@
   <component name="UmlConfiguration">
     <option name="categories">
       <map>
-        <entry id="MODULES" categories="Show Neighbours of Selected Nodes" />
-        <entry id="SPRING" categories="Show Neighbours of Selected Nodes" />
+        <entry id="AlchemyModelDependency" categories="Fields" />
+        <entry id="AppEngineModelDependency" categories="Fields" />
+        <entry id="DjangoModelDependency" categories="Fields" />
+        <entry id="Flash" categories="Fields;Constructors;Methods;Properties" />
+        <entry id="Gradle" categories="Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="MODULES" categories="Libraries;Test dependencies;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+        <entry id="SPRING" categories="Show Neighbours of Selected Nodes;Borderless View" />
       </map>
     </option>
   </component>
