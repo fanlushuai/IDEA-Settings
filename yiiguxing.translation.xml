@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corp" />
       <item value="dispatch" />
       <item value="prompt" />
       <item value="Sanitized" />
@@ -50,12 +51,11 @@
       <item value="有效" />
       <item value="计数" />
       <item value="actual" />
-      <item value="Rescheduling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
