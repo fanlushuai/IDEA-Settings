@@ -1,10 +1,14 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="SendEOF" />
   <action id="VimPluginToggle">
