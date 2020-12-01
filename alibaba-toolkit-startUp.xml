@@ -1,10 +1,12 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/code/Fork-modify-search" startUpFlag="FIRST" />
     <entry projectPath="E:/code/bus-bj" startUpFlag="FIRST" />
     <entry projectPath="E:/code/invest-robot" startUpFlag="FIRST" />
     <entry projectPath="E:/code/longdai-p2p" startUpFlag="FIRST" />
     <entry projectPath="E:/code/open/Surfingkeys" startUpFlag="FIRST" />
     <entry projectPath="E:/code/open/jd-assistant" startUpFlag="FIRST" />
+    <entry projectPath="E:/code/sister-gift" startUpFlag="FIRST" />
   </component>
 </application>
