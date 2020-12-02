@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com" />
       <item value="reserve" />
       <item value="stock" />
       <item value="corp" />
@@ -50,7 +51,6 @@
       <item value="periodic" />
       <item value="点击" />
       <item value="effect" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
