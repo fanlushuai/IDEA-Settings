@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5 (jd-assistant) interpreter library">
+    <library name="Python 3.6 (jd-assistant) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.conda/envs/jd-assistant/DLLs" />
         <root url="file://$USER_HOME$/.conda/envs/jd-assistant/Lib" />
