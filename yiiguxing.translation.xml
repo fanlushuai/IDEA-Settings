@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deprecated" />
       <item value="prudent" />
       <item value="Compressor" />
       <item value="Sub Types" />
@@ -50,12 +51,11 @@
       <item value="Guard" />
       <item value="Leaf" />
       <item value="Lexer" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
