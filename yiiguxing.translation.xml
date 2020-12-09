@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COALESCE" />
+      <item value="when to first run the job, regardless of the trigger (pass ``None`` to add the job as paused)" />
+      <item value="run once instead of many times if the scheduler determines that the job should be run more than once in succession" />
+      <item value="determines" />
+      <item value="coalesce" />
       <item value="temporarily" />
       <item value="deprecated" />
       <item value="prudent" />
@@ -46,16 +51,11 @@
       <item value="fired" />
       <item value="Uninterruptibly" />
       <item value="spurious" />
-      <item value="leak" />
-      <item value="VIRGIN" />
-      <item value="guard" />
-      <item value="Guard" />
-      <item value="Leaf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
