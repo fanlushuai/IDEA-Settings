@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="solely" />
+      <item value="determined" />
+      <item value="exhausted" />
       <item value="interval" />
       <item value="replacement" />
       <item value="COALESCE" />
@@ -48,14 +51,11 @@
       <item value="heapify" />
       <item value="assuming" />
       <item value="Establishes" />
-      <item value="invariant" />
-      <item value="scheduled" />
-      <item value="fired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
