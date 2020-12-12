@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supplies" />
+      <item value="alphabetized" />
       <item value="raised" />
       <item value="approximately" />
       <item value="solely" />
@@ -49,13 +51,11 @@
       <item value="suspend" />
       <item value="purge" />
       <item value="yield" />
-      <item value="Reaper" />
-      <item value="heapify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
