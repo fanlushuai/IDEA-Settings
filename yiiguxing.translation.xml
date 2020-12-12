@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approximately" />
       <item value="solely" />
       <item value="determined" />
       <item value="exhausted" />
@@ -50,12 +51,11 @@
       <item value="Reaper" />
       <item value="heapify" />
       <item value="assuming" />
-      <item value="Establishes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
