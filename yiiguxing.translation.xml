@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="heapify" />
+      <item value="purge" />
       <item value="task" />
       <item value="concurrent" />
       <item value="supplies" />
@@ -49,13 +51,11 @@
       <item value="CLH" />
       <item value="variant" />
       <item value="exclusive" />
-      <item value="maintained" />
-      <item value="suspend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
