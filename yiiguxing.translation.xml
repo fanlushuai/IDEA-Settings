@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precision" />
       <item value="executor" />
       <item value="heapify" />
       <item value="purge" />
@@ -50,12 +51,11 @@
       <item value="Landin" />
       <item value="Craig" />
       <item value="CLH" />
-      <item value="variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
