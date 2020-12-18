@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="section" />
       <item value="precision" />
       <item value="executor" />
       <item value="heapify" />
@@ -50,12 +51,11 @@
       <item value="spinlocks" />
       <item value="Landin" />
       <item value="Craig" />
-      <item value="CLH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
