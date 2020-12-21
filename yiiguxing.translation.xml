@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbolic" />
+      <item value="indicating" />
       <item value="parallelism" />
       <item value="indicated" />
       <item value="beforehand" />
@@ -49,13 +51,11 @@
       <item value="prompt" />
       <item value="Sanitized" />
       <item value="Arrow" />
-      <item value="Tray" />
-      <item value="Press" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
