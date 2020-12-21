@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nonconvert" />
+      <item value="nexttrack" />
       <item value="playpause" />
       <item value="volumemute" />
       <item value="pause" />
@@ -49,13 +51,11 @@
       <item value="Interruptibly" />
       <item value="Successor" />
       <item value="Threshold" />
-      <item value="predecessor" />
-      <item value="PROPAGATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
