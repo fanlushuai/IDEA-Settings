@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="parallelism" />
+      <item value="indicated" />
       <item value="beforehand" />
       <item value="kanji" />
       <item value="multiply" />
@@ -50,12 +51,11 @@
       <item value="Arrow" />
       <item value="Tray" />
       <item value="Press" />
-      <item value="park" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
