@@ -6,6 +6,7 @@
       <mapping pattern="timeTest.py" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="spactions" type="PLAIN_TEXT" />
       <mapping ext="cookies" type="PLAIN_TEXT" />
       <mapping pattern="workflow" type="YAML" />
