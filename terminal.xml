@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;C:\Windows\System32\cmd.exe&quot;  /k  &quot;bash.exe&quot;" />
-    <option name="myTabName" value="cmd" />
+    <option name="myShellPath" value="wsl.exe" />
+    <option name="myTabName" value="wsl" />
   </component>
 </application>
