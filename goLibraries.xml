@@ -1,0 +1,9 @@
+<application>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://E:/code/my-github/go-jd-assistant" />
+      </list>
+    </option>
+  </component>
+</application>
