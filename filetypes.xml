@@ -1,15 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="timeTest.py" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="spactions" type="PLAIN_TEXT" />
       <mapping ext="cookies" type="PLAIN_TEXT" />
       <mapping pattern="workflow" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
