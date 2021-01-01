@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="req.httpreq.Remote Addr=fmt.Sprintf(&quot;%s:%s&quot;,a.host,a.port)" />
       <item value="symbolic" />
       <item value="indicating" />
       <item value="parallelism" />
@@ -50,7 +51,6 @@
       <item value="dispatch" />
       <item value="prompt" />
       <item value="Sanitized" />
-      <item value="Arrow" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,6 +62,9 @@
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1609495581088" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
