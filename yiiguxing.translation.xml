@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ETLD" />
       <item value="req.httpreq.Remote Addr=fmt.Sprintf(&quot;%s:%s&quot;,a.host,a.port)" />
       <item value="symbolic" />
       <item value="indicating" />
@@ -50,12 +51,11 @@
       <item value="corp" />
       <item value="dispatch" />
       <item value="prompt" />
-      <item value="Sanitized" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
@@ -65,8 +65,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1609495581088" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
