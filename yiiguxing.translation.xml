@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duration" />
       <item value="mute" />
       <item value="ETLD" />
       <item value="req.httpreq.Remote Addr=fmt.Sprintf(&quot;%s:%s&quot;,a.host,a.port)" />
@@ -50,12 +51,11 @@
       <item value="reserve" />
       <item value="stock" />
       <item value="corp" />
-      <item value="dispatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
