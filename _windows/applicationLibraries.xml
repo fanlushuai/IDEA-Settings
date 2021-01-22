@@ -1,5 +1,32 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7 (Leanote4MD) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/DLLs" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/python_stubs/-85842426" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/DLLs" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib/lib-tk" />
+        <root url="file://$USER_HOME$/.conda/envs/Leanote4MD/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.3/python_stubs/-85842426" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (fucking-bug-maker) interpreter library">
       <CLASSES>
         <root url="file://E:/conda/python3.6/DLLs" />
