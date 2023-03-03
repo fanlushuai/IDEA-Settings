@@ -1,0 +1,7 @@
+<templateSet group="Java">
+  <template name="vm" value="public void x(){&#10;    $END$&#10;}" description="blank method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
