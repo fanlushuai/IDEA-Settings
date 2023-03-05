@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="te" value="@Test&#10;public void xTest(){&#10;    $END$   &#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="te" value="@Test&#10;public void xTest(){&#10;    $END$   &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
