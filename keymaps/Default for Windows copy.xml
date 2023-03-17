@@ -10,6 +10,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SendEOF" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
